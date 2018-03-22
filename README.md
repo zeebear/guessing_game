@@ -2,7 +2,7 @@
 ## An Assignment in Bash, Make, Git, and GitHub
 
 **Make was run at the following time:**
-Mar 22 10:29 
+Thu Mar 22 14:56:53 UTC 2018
 
 **guessinggame.sh contains the following amount of lines:**
-28
+30

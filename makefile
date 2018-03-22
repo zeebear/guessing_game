@@ -10,7 +10,7 @@ title:
 
 date:
 	echo "**Make was run at the following time:**" >> README.md
-	ls -ul README.md | egrep -o "[A-Z].+:\d{2}\s" >> README.md
+	date -u >> README.md
 	echo "" >> README.md
 
 lines: guessinggame.sh

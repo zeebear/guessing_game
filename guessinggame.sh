@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo Guess how many files there are in the current directory!
 
 function ask {
